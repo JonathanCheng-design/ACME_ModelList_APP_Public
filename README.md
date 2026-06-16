@@ -1,13 +1,11 @@
 This Android app allows users to select an ACME product model and filter compatible components accordingly.
 
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/134cc3e6-f947-442f-8af4-7ed37bbbf04f" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/ca4729ea-7ffc-47a1-b856-afc1d617edc8" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/258135f9-374f-4d72-99e5-843f7b471678" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/1d85858b-dc56-4097-a679-cbcad3dc778a" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/5b5ee9e7-43a9-4ec3-afb6-777321283ae4" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/5f3cc13a-f21d-4389-b347-ff260c1f3051" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/c4d255b7-7251-43dd-911e-1e08db566f69" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/32bbb50e-4310-4ec1-adc8-81495cb6cde4" />
-<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/aa6d4c02-cca0-43cf-8732-fd7c01d0850d" />
-
 <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/63ff53bf-365f-4417-bde9-e395616c6332" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/12cd5a23-a86c-4708-a31d-7d19dafec244" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/c767c8a8-a532-46c8-a97e-4a3ea98c801a" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/f829bb30-d991-4776-b085-01504801496d" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/a46aee3f-65dd-4872-85c9-496292da0641" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/98da3986-aaea-43f6-bb80-c839f3cb7957" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/c91b1a46-a217-4a61-b853-7590239a8cea" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/36c31167-5077-484d-8a46-bd0e3a9725e6" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/8f67c0c3-02b2-4b55-ac2b-fc5f84e10da0" />
